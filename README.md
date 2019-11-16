@@ -1,4 +1,4 @@
 # shopping-list
-My solution to the DOM events exercise (lecture 94) - www.udemy.com/the-complete-web-developer-in-2018
+My solution to HTML exercise (lecture 94) - https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/
 
 See the result here
